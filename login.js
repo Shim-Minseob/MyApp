@@ -2,3 +2,6 @@
 console.log 'login funcion' ;
 var mySpan = document.getElementsByTagName('span');
 var myDiv = document.getElementById('myDiv');
+
+var isLogin = false;
+var isLoginStatus = 'login';
